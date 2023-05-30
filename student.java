@@ -6,7 +6,7 @@ public class student {
 		
 		stu_info si = new stu_info();   
 		
-		si.setName("krushna");
+		si.setName("Ayush");
 		System.out.println(si.getName());
 		
 		si.setsid(001);
