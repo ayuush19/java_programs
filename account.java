@@ -6,7 +6,7 @@ public class account {
 		
 		acc_info ai = new acc_info();   
 		
-		ai.setName("krushna");
+		ai.setName("Ayush");
 		System.out.println(ai.getName());
 		
 		ai.setbalance(5000);
